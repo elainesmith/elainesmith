@@ -1,7 +1,7 @@
 # ✨ Hello - I'm Elaine ✨
 
 > Student at Ada Developers Academy | Seattle Cohort 17 🦦 <br />
-> Incoming intern at Oracle
+> Intern at Oracle | OCI Multi-cloud SRE
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
