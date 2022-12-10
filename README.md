@@ -35,4 +35,3 @@ public class Main {
 <img src="https://github-readme-stats.vercel.app/api?username=elainesmith&show_icons=true&theme=material-palenight" alt="elainesmith" />
 
 [![Linkedin: elainesmith1219](https://img.shields.io/badge/-elainesmith1219-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elainesmith1219/)](https://www.linkedin.com/in/elainesmith1219/)
-[![Twitter: codeElaine](https://img.shields.io/twitter/follow/codeElaine?style=social)](https://twitter.com/codeElaine)
